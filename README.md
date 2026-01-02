@@ -1,4 +1,4 @@
-## Hi, I'm Paras 👋
+## Hi, I'm Paras Kalura👋
 
 Frontend Developer | React | Tailwind | JavaScript
 
