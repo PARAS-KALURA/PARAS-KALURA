@@ -4,13 +4,14 @@
 
 ### Paras Kalura
 
+
 **Full-Stack Developer • SaaS Builder • Software Engineer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-PARAS--KALURA-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/PARAS-KALURA)
 [![X](https://img.shields.io/badge/X-@Certified__Devvv-0d1117?style=flat-square&logo=x&logoColor=white)](https://x.com/Certified_Devvv)
+[![Instagram](https://img.shields.io/badge/Instagram-@coder__ioo-0d1117?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/coder_ioo?stkn=MWxmZnkydDVnbjN6aw==)
 
 </div>
-
 ---
 
 <table>
