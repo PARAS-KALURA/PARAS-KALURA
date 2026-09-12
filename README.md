@@ -22,8 +22,7 @@
 
 ## `paras@github`
 
-```text
-             .-""""-.
+```text             .-""""-.
             /        \
            /  .--.    \
           |  /    \    |
@@ -38,6 +37,13 @@
      ██╔═══╝ ██╔══██║██╔══██╗██╔══██║╚════██║
      ██║     ██║  ██║██║  ██║██║  ██║███████║
      ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+
+     ██╗  ██╗ █████╗ ██╗     ██╗   ██╗██████╗  █████╗
+     ██║ ██╔╝██╔══██╗██║     ██║   ██║██╔══██╗██╔══██╗
+     █████╔╝ ███████║██║     ██║   ██║██████╔╝███████║
+     ██╔═██╗ ██╔══██║██║     ██║   ██║██╔══██╗██╔══██║
+     ██║  ██╗██║  ██║███████╗╚██████╔╝██║  ██║██║  ██║
+     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
 ```text
@@ -290,23 +296,6 @@ Cache    : node-cache
 </td>
 </tr>
 </table>
-
----
-
-## `paras@github:~$ github-stats`
-
-<div align="center">
-
-<a href="https://github.com/PARAS-KALURA">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=PARAS-KALURA&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-  alt="Paras Kalura GitHub Stats"
-/>
-
-</a>
-
-</div>
 
 ---
 
