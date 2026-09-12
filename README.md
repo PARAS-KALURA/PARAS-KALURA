@@ -144,8 +144,6 @@ Status    : Online 🚀
 
 ### Testing & Tools
 
-### Testing & Tools
-
 <p align="left">
 
   <!-- Playwright -->
