@@ -10,6 +10,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-PARAS--KALURA-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/PARAS-KALURA)
 [![X](https://img.shields.io/badge/X-@Certified__Devvv-0d1117?style=flat-square&logo=x&logoColor=white)](https://x.com/Certified_Devvv)
 [![Instagram](https://img.shields.io/badge/Instagram-@coder__ioo-0d1117?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/coder_ioo?stkn=MWxmZnkydDVnbjN6aw==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paras%20Kalura-0d1117?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paras-kalura-084797239/)
+
 
 </div>
 ---
@@ -295,9 +297,14 @@ Cache    : node-cache
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PARAS-KALURA&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" alt="Paras Kalura GitHub Stats"/>
+<a href="https://github.com/PARAS-KALURA">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PARAS-KALURA&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="Paras Kalura GitHub Streak"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=PARAS-KALURA&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+  alt="Paras Kalura GitHub Stats"
+/>
+
+</a>
 
 </div>
 
