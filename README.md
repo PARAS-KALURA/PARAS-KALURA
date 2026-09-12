@@ -1,24 +1,31 @@
-## Hi, I'm Paras Kalura👋
+Hi, I'm Paras Kalura 👋
+QA → Developer | Full-Stack Developer in Progress
 
-Frontend Developer | React | Tailwind | JavaScript
+I build real-world web applications and share my journey from QA to software development.
 
-- Building real-world React projects
-- Focused on clean UI + logic
-- Learning backend (Node.js + SQL)
+🚀 Building Chattr — QR → instant chat
+⚛️ Learning React, Node.js, Express & MongoDB
+🧪 Learning Playwright & QA Automation
+💻 Interested in SaaS, clean UI and scalable systems
+📚 Sharing what I build and learn
+🛠️ Tech Stack
 
+Frontend: HTML, CSS, JavaScript, React, Tailwind CSS
 
-# 💻 Tech Stack:
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PARAS-KALURA&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PARAS-KALURA&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PARAS-KALURA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Backend: Node.js, Express.js, MongoDB, Socket.IO
 
----
-[![](https://visitcount.itsvg.in/api?id=PARAS-KALURA&icon=0&color=0)](https://visitcount.itsvg.in)
+Testing: Playwright, API Testing
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Tools: Git, GitHub, Postman, Vercel, Render
 
-### Current Focus
-- SaaS-ready frontend projects
-- Scalable UI patterns
+🚀 Featured Projects
+Chattr — Real-time QR chat application
+MERN Notes App — Full-stack CRUD application
+Weather App — API integration and caching
+QA Automation — Playwright testing project
+
+📌 Current Focus
+Building and shipping Chattr
+Learning Playwright automation
+Improving full-stack development skills
+Building products that solve real problems
