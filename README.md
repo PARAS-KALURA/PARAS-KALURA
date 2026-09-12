@@ -1,148 +1,96 @@
 <div align="center">
 
-# 👋 Hi, I'm Paras Kalura
+# `PARAS-KALURA`
 
-### `Frontend Developer` • `Full-Stack Developer in Progress`
+### Paras Kalura
 
-Building real-world products, learning automation, and shipping my journey.
+**Full-Stack Developer • SaaS Builder • Software Engineer**
 
-[![GitHub](https://img.shields.io/badge/GitHub-PARAS--KALURA-181717?style=flat-square&logo=github)](https://github.com/PARAS-KALURA)
-[![X](https://img.shields.io/badge/X-@Certified__Devvv-000000?style=flat-square&logo=x)](https://x.com/Certified_Devvv)
+[![GitHub](https://img.shields.io/badge/GitHub-PARAS--KALURA-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/PARAS-KALURA)
+[![X](https://img.shields.io/badge/X-@Certified__Devvv-0d1117?style=flat-square&logo=x&logoColor=white)](https://x.com/Certified_Devvv)
 
 </div>
 
 ---
 
-## 🖥️ PARAS-KALURA / SYSTEM
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   ██████╗  █████╗ ██████╗  █████╗ ███████╗                  │
-│   ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝                  │
-│   ██████╔╝███████║██████╔╝███████║███████╗                  │
-│   ██╔═══╝ ██╔══██║██╔══██╗██╔══██║╚════██║                  │
-│   ██║     ██║  ██║██║  ██║██║  ██║███████║                  │
-│   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝                  │
-│                                                             │
-│   > whoami                                                  │
-│   paras-kalura                                               │
-│                                                             │
-│   > role                                                    │
-│   Frontend Developer / QA → Developer                       │
-│                                                             │
-│   > current_project                                         │
-│   Chattr — QR → Instant Chat                                │
-│                                                             │
-│   > primary_stack                                           │
-│   React • JavaScript • Node.js • Express                    │
-│                                                             │
-│   > database                                                 │
-│   MongoDB                                                    │
-│                                                             │
-│   > real_time                                                │
-│   Socket.IO                                                  │
-│                                                             │
-│   > testing                                                  │
-│   Playwright                                                 │
-│                                                             │
-│   > status                                                   │
-│   Building & Learning 🚀                                    │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🧠 About Me
-
-- 👨‍💻 Frontend Developer in progress, transitioning from QA to software development.
-- 🚀 Building **Chattr** — a QR-based real-time chat application.
-- ⚛️ Working with React, JavaScript, Tailwind CSS, Node.js and Express.
-- 🧪 Learning Playwright and QA Automation.
-- 💡 Interested in SaaS, clean UI, real-time applications and scalable systems.
-- 📚 Sharing what I build and learn.
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="HTML CSS JavaScript React Tailwind CSS"/>
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,socketio" alt="Node.js Express MongoDB Socket.IO"/>
-</p>
-
-### Testing & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=playwright,git,github,postman,vscode" alt="Playwright Git GitHub Postman VS Code"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
 <table>
 <tr>
-<td width="50%">
+<td width="45%" valign="top">
 
-### 💬 Chattr
+## `paras@github`
 
-**QR → Instant Chat**
+```text
+             .-""""-.
+            /        \
+           /  .--.    \
+          |  /    \    |
+          | |  ()  |   |
+          |  \    /    |
+           \  '--'    /
+            '-.____.-'
 
-A real-time chat application where users can scan a QR code, open a profile and start chatting.
+     ██████╗  █████╗ ██████╗  █████╗ ███████╗
+     ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝
+     ██████╔╝███████║██████╔╝███████║███████╗
+     ██╔═══╝ ██╔══██║██╔══██╗██╔══██║╚════██║
+     ██║     ██║  ██║██║  ██║██║  ██║███████║
+     ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+```
 
-**Stack:** React • Node.js • Express • MongoDB • Socket.IO
+```text
+> whoami
 
-[View Repository →](https://github.com/PARAS-KALURA)
+Paras Kalura
+
+> role
+
+Full-Stack Developer
+
+> location
+
+India 🇮🇳
+
+> status
+
+Building & Learning 🚀
+```
 
 </td>
-<td width="50%">
 
-### 📝 MERN Notes App
+<td width="55%" valign="top">
 
-**Full-Stack CRUD Application**
+## `neofetch`
 
-A notes application built with React, Express, Node.js and MongoDB.
+```text
+paras@github
+-------------------------
+OS        : Windows 11
+Host      : Paras Kalura
+Kernel    : Full-Stack
+Shell     : JavaScript
+Editor    : VS Code
 
-**Stack:** React • Tailwind • Express • MongoDB
+Languages : JavaScript
+            HTML / CSS
 
-[View Repository →](https://github.com/PARAS-KALURA)
+Frontend  : React
+            Tailwind CSS
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+Backend   : Node.js
+            Express.js
 
-### 🧪 QA Automation
+Database  : MongoDB
 
-**Playwright Testing Project**
+Realtime  : Socket.IO
 
-Browser automation and testing workflows using Playwright.
+Testing   : Playwright
 
-**Stack:** JavaScript • Playwright
+Focus     : SaaS & Web Apps
 
-[View Repository →](https://github.com/PARAS-KALURA)
+Project   : Chattr
 
-</td>
-<td width="50%">
-
-### 🌦️ Weather App
-
-**Weather API + Caching**
-
-A weather application with API integration and caching.
-
-**Stack:** React • Node.js • API Integration
-
-[View Repository →](https://github.com/PARAS-KALURA)
+Status    : Online 🚀
+```
 
 </td>
 </tr>
@@ -150,64 +98,227 @@ A weather application with API integration and caching.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PARAS-KALURA&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Paras Kalura GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PARAS-KALURA&theme=tokyonight&hide_border=true" alt="Paras Kalura GitHub Streak" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Paras's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PARAS-KALURA&theme=tokyo-night&hide_border=true)](https://github.com/PARAS-KALURA)
-
-</div>
-
----
-
-## 🎯 Current Focus
+## `paras@github:~$ cat about.txt`
 
 ```text
-[✓] HTML / CSS / JavaScript
-[✓] React + Tailwind CSS
-[✓] Node.js + Express
-[✓] MongoDB + Socket.IO
-
-[→] Building Chattr
-[→] Playwright Automation
-[→] Full-Stack Development
-[→] SaaS Development
-[→] Shipping real products
+╭────────────────────────────────────────────────────╮
+│                                                    │
+│  Hi, I'm Paras Kalura 👋                           │
+│                                                    │
+│  Full-Stack Developer passionate about building    │
+│  real-world products and turning ideas into        │
+│  working applications.                             │
+│                                                    │
+│  🚀 Building Chattr                                │
+│  ⚛️ React + Tailwind CSS                           │
+│  🛠️ Node.js + Express.js                          │
+│  🗄️ MongoDB + Socket.IO                            │
+│  🧪 Playwright & QA Automation                     │
+│  💡 SaaS • Clean UI • Real-time Apps               │
+│                                                    │
+╰────────────────────────────────────────────────────╯
 ```
 
 ---
 
-## 📌 Developer Philosophy
+## `paras@github:~$ ls tech-stack/`
 
-> Build things that solve real problems.
->
-> Learn by shipping.
->
-> Improve every day.
+### Frontend
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/></a>
+<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/></a>
+<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS"/></a>
+</p>
+
+### Backend & Database
+
+<p align="left">
+<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"/></a>
+<a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js"/></a>
+<a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/></a>
+<a href="https://socket.io"><img src="https://skillicons.dev/icons?i=socketio" height="40" alt="Socket.IO"/></a>
+</p>
+
+### Testing & Tools
+
+<p align="left">
+<a href="https://playwright.dev"><img src="https://skillicons.dev/icons?i=playwright" height="40" alt="Playwright"/></a>
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/></a>
+<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>
+<a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman"/></a>
+<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/></a>
+</p>
 
 ---
 
-## 📫 Connect With Me
+## `paras@github:~$ ./projects.sh`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 Chattr
+
+**QR → Instant Chat**
+
+A real-time chat application built to make connecting simple.
+
+```text
+Type   : Real-time Chat
+Frontend : React
+Backend  : Node.js
+Database : MongoDB
+Realtime : Socket.IO
+```
+
+- QR-based user discovery
+- 1-to-1 messaging
+- Real-time chat
+- User profiles & avatars
+- Mobile-first UI
+
+**Status:** Building 🚀
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📝 MERN Notes App
+
+**Full-Stack CRUD**
+
+A notes application built with the MERN stack.
+
+```text
+Frontend : React
+Backend  : Express
+Database : MongoDB
+Hosting  : Vercel / Render
+```
+
+- Create notes
+- Read notes
+- Update notes
+- Delete notes
+- REST API
+
+**Status:** Built
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 QA Automation
+
+**Playwright Testing**
+
+Browser automation and testing workflows.
+
+```text
+Language : JavaScript
+Tool     : Playwright
+Focus    : E2E Testing
+```
+
+**Status:** Learning & Building
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌦️ Weather App
+
+**Weather API + Caching**
+
+A weather application with API integration and caching.
+
+```text
+Frontend : React
+Backend  : Node.js
+API      : Weather API
+Cache    : node-cache
+```
+
+**Status:** Built
+
+</td>
+</tr>
+</table>
+
+---
+
+## `paras@github:~$ github-stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PARAS-KALURA&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" alt="Paras Kalura GitHub Stats"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PARAS-KALURA&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="Paras Kalura GitHub Streak"/>
+
+</div>
+
+---
+
+## `paras@github:~$ git log --oneline`
+
+```text
+🚀 Building Chattr
+⚡ Developing full-stack applications
+🧪 Learning Playwright automation
+💡 Exploring SaaS ideas
+📚 Learning something new every day
+```
+
+---
+
+## `paras@github:~$ cat current-focus.txt`
+
+```text
+╭─────────────────────────────────────────────╮
+│                                             │
+│  [✓] JavaScript                             │
+│  [✓] React                                  │
+│  [✓] Tailwind CSS                           │
+│  [✓] Node.js                                │
+│  [✓] Express.js                             │
+│  [✓] MongoDB                                │
+│  [✓] Socket.IO                              │
+│                                             │
+│  [→] Chattr                                 │
+│  [→] Playwright Automation                  │
+│  [→] SaaS Development                       │
+│  [→] Shipping Real Products                │
+│                                             │
+╰─────────────────────────────────────────────╯
+```
+
+---
+
+## `paras@github:~$ echo $PHILOSOPHY`
+
+```text
+> Build things that solve real problems.
+> Learn by shipping.
+> Improve every day.
+```
+
+---
+
+## `paras@github:~$ connect`
 
 <div align="center">
 
 <a href="https://github.com/PARAS-KALURA">
-  <img src="https://img.shields.io/badge/GitHub-PARAS--KALURA-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-PARAS--KALURA-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
 <a href="https://x.com/Certified_Devvv">
-  <img src="https://img.shields.io/badge/X-@Certified__Devvv-000000?style=for-the-badge&logo=x" alt="X"/>
+<img src="https://img.shields.io/badge/X-@Certified__Devvv-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 
 </div>
@@ -216,8 +327,19 @@ A weather application with API integration and caching.
 
 <div align="center">
 
-### 🚀 Building products. Learning every day.
+```text
+┌──────────────────────────────────────────┐
+│                                          │
+│  PARAS KALURA                            │
+│  Full-Stack Developer                    │
+│                                          │
+│  Building products. Learning every day. │
+│                                          │
+│  🚀                                     │
+│                                          │
+└──────────────────────────────────────────┘
+```
 
-<img src="https://komarev.com/ghpvc/?username=PARAS-KALURA&style=flat-square&color=blue" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=PARAS-KALURA&style=flat-square&color=58A6FF" alt="Profile views"/>
 
 </div>
