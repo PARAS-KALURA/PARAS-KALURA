@@ -145,14 +145,22 @@ Status    : Online 🚀
 ### Testing & Tools
 
 <p align="left">
-<a href="https://playwright.dev"><img src="https://skillicons.dev/icons?i=playwright" height="40" alt="Playwright"/></a>
-<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/></a>
-<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>
-<a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman"/></a>
-<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/></a>
+  <a href="https://playwright.dev">
+    <img src="https://skillicons.dev/icons?i=playwright" height="60" alt="Playwright"/>
+  </a>
+  <a href="https://git-scm.com">
+    <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git"/>
+  </a>
+  <a href="https://github.com">
+    <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub"/>
+  </a>
+  <a href="https://www.postman.com">
+    <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman"/>
+  </a>
+  <a href="https://code.visualstudio.com">
+    <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VS Code"/>
+  </a>
 </p>
-
----
 
 ## `paras@github:~$ ./projects.sh`
 
