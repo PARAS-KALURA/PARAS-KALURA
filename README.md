@@ -388,15 +388,19 @@ Cache    : node-cache
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/PARAS-KALURA/PARAS-KALURA/output/github-snake-dark.svg"
   />
+
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/PARAS-KALURA/PARAS-KALURA/output/github-snake.svg"
   />
+
   <img
     alt="GitHub contribution snake animation"
     src="https://raw.githubusercontent.com/PARAS-KALURA/PARAS-KALURA/output/github-snake.svg"
   />
+
 </picture>
+
 
 <img src="https://komarev.com/ghpvc/?username=PARAS-KALURA&style=flat-square&color=58A6FF" alt="Profile views"/>
 
