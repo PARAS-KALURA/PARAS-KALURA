@@ -379,7 +379,6 @@ Cache    : node-cache
 └──────────────────────────────────────────┘
 ```
 
-<img src="https://komarev.com/ghpvc/?username=PARAS-KALURA&style=flat-square&color=58A6FF" alt="Profile views"/>
 
 
 ## 🐍 GitHub Contributions
@@ -398,5 +397,8 @@ Cache    : node-cache
     src="https://raw.githubusercontent.com/PARAS-KALURA/PARAS-KALURA/output/github-snake.svg"
   />
 </picture>
+
+<img src="https://komarev.com/ghpvc/?username=PARAS-KALURA&style=flat-square&color=58A6FF" alt="Profile views"/>
+
 
 </div>
