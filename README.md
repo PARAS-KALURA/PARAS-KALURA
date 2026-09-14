@@ -339,7 +339,7 @@ Cache    : node-cache
 ```text
 > Build things that solve real problems.
 > Learn by shipping.
-> Improve every day.
+> Improve every day
 ```
 
 ---
